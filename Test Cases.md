@@ -96,10 +96,10 @@
 5. Select "Day of the week" → Monday  
    - Expected Result: Field accepts input  
 
-6. Select "Start time" → 03:30  
+6. Select "Start time" from the drop down menu → 03:30  
    - Expected Result: Field accepts input  
 
-7. Select "Duration" → 0:30  
+7. Select "Duration" from the drop down menu → 0:30  
    - Expected Result: Field accepts input  
 
 8. Click "Save" button  
