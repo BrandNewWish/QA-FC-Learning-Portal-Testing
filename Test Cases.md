@@ -47,7 +47,7 @@
 **Steps:**
 
 1. Call Test: TC-01 – Mentors tab visibility validation  
-
+   → Mentors page is loaded and course tabs are visible
 2. Click on "Frontend" tab  
    - Expected Result: "Frontend" tab becomes active and mentors list is displayed  
 
